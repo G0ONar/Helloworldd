@@ -1,6 +1,8 @@
+//Gunnar.Pettit@malad.us
+//This is my hello world
 public class HelloWorld
  {
-    public syatic void main(string[] args)[]{
+    public static void main(string[] args)[]{
         int age =16;
         String name="Gunnar Pettit";
         System.out.println("Hellow world, I am "+name);

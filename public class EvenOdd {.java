@@ -1,3 +1,6 @@
+//By Gunnar Pettit
+//for Kim Gross's SD1 1.4C
+
 public class EvenOdd {
     public static void main(String[] args) {
 
@@ -7,7 +10,5 @@ public class EvenOdd {
         System.out.println("the sum of the numbers is sum");
         
     }
-
-} Main {
     
 }
